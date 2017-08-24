@@ -20,6 +20,12 @@ Students will meet weekly with the professor and one another and present _each_ 
 - an implementation of the technique in their current project
 - an example of a related technique used in an existing project, through recordings, video, or other documentation on the web
 
+<!-- BREAK -->
+
 ### Project
 
 Students will work independently or collaboratively with one another one or more new pieces of music, sound installations, or other artworks. The work _must_ include sound and must be controlled or executed using technologies researched during the course. The work will be publicly presented near the end of the semester, on or before Friday, 8 December. Depending on the nature of the project, this could be a performance, class presentation, or public exhibition/installation.
+
+### Grading
+
+The course will be evaluated pass-fail, based on the completion and presentation of the final project. 
